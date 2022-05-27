@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Martin C",
+      "empresa": "Mi Casa",
+      "email": "correo@correo.com",
+      "telefono": "351805",
+      "notas": "Recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Jorge",
+      "empresa": "xd2",
+      "email": "lau@gmail.com",
+      "telefono": "1234",
+      "notas": "Reclutamiento",
+      "id": 4
+    },
+    {
+      "nombre": "Thor <3",
+      "empresa": "Casa",
+      "email": "perro@casa.com",
+      "telefono": "123",
+      "notas": "Negro y peludito",
+      "id": 7
+    }
+  ]
+}
